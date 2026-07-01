@@ -19,7 +19,11 @@ export default function NavDesktop() {
             className="bg-background sticky top-0 flex w-full items-center p-6"
         >
             <a href="/" className="flex items-center">
-                <img src="/logo.png" alt="logo" className="h-8 w-8" />
+                <img
+                    src="/logo-transparent.webp"
+                    alt="GAQBC logo"
+                    className="h-8 w-8"
+                />
             </a>
 
             <div className="absolute left-1/2 -translate-x-1/2">
